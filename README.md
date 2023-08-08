@@ -29,7 +29,7 @@ Firebase for analytics and hosting
 ## Setup and Installation
 - Clone the repository.
 ```
-git clone https://github.com/yourusername/IMDb-Search-Tool.git
+git clone https://github.com/FilipFilchev/IMDb-Search-Tool.git
 ```
 - Install dependencies.
 
