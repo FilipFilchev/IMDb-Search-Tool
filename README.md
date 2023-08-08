@@ -1,7 +1,7 @@
 # IMDb Search Tool 🎥
 - A simple, intuitive IMDb search tool created with React.js. This application allows users to search for their favorite movies or series and get instant results. The tool features a dark mode, a responsive design with dynamic image visibility based on the screen dimensions, and uses Firebase for hosting.
 
-##Preview
+## Preview
 ![IMDBApp](./img2.png "Screenshot")
 ![IMDBApp](./img1.png "Screenshot")
 
